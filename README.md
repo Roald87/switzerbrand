@@ -6,7 +6,7 @@ Here I use the Federal Office of Justice's [ZEFIX database](https://www.zefix.ad
 
 Code is based on [this example notebook](https://jupyter.zazuko.com/zefix.html) ([Github](https://github.com/zazuko/notebooks/blob/master/notebooks/zefix/zefix.ipynb)).
 
-_Data retrieved on 12 March 2023_
+_Data retrieved on 25 March 2023_
 
 ![](swiss.png)
 ![](schweiz.png)
